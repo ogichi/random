@@ -1,0 +1,1 @@
+Este programa muestra un número al azar entre 0 y 1. Si el número es menor de 0.5 muestra el número y un mensaje por consola diciendo que es menor de 0.5. En caso contrario, también devuelve el número y el mensaje de que el número es mayor de 0.5.
